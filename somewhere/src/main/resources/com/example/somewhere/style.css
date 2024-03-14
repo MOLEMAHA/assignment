@@ -1,0 +1,100 @@
+.button{
+    -fx-background-color:red ;
+     -fx-border-color:blue;
+             -fx-scale-x:1.05;
+            -fx-scale-y:1.05;
+
+
+}
+.navStyle{
+    -fx-font-size:12px;
+    -fx-background-color:transparent;
+    -fx-font-weight:bold;
+    -fx-font-fill:purple;
+}
+image-view{
+    -fx-width:200px;
+    -fx-height:200px;
+}
+#lb{
+
+    -fx-text-fill:red;
+    -fx-font-size:40px;
+    -fx-font-weight:bold;
+    -fx-padding:10px 100px;
+
+
+}
+.h3{
+    -fx-width:200px;
+    -fx-height:70px;
+    -fx-background-color:linear-gradient(to right ,purple,gray);
+    -fx-border-color:purple;
+    -fx-padding:20px 20px;
+    -fx-border-width:3px;
+
+
+}
+Text{
+       -fx-text-decoration:underline;
+}
+BorderPane{
+    -fx-padding:10px 170px;
+    -fx-background-color:linear-gradient(to bottom right, gray,purple);
+}
+.label{
+    -fx-font-size:40px;
+    -fx-text-fill:white;
+    -fx-background-color:red;
+}
+.image-view:hover{
+        -fx-border-color:red;
+         -fx-scale-x:1.05;
+        -fx-scale-y:1.05;
+
+}
+.lbse{
+
+           -fx-font-size:20px;
+           -fx-text-fill:white;
+           -fx-font-weight:bold;
+           -fx-background-radius:20px;
+           -fx-background-color:transparent;
+}
+.bton{
+        -fx-background-color:yellow;
+            -fx-text-fill:orange;
+            -fx-font-weight:bold;
+             -fx-border-width:0;
+             -fx-background-radius:10px;
+
+}
+.combo-box{
+    -fx-font-size:12px;
+    -fx-font-weight:bold;
+    -fx-font-fill:gold;
+    -fx-background-color:purple;
+    -fx-border-radius:4px;
+}
+.exitBton{
+    -fx-background-color:red;
+    -fx-text-fill:white;
+    -fx-font-weight:bold;
+    -fx-border-color:red;
+     -fx-border-width:3px;
+     -fx-border-radius:10px;
+     -fx-background-radius:5px;
+
+}
+.exitBton:hover,.bton:hover{
+    -fx-background-color:wheat;
+    -fx-text-fill:red;
+}
+.btn{
+        -fx-background-color:transparent;
+         -fx-border-color:blue;
+                 -fx-scale-x:1.05;
+                -fx-scale-y:1.05;
+
+
+}
